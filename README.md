@@ -8,7 +8,7 @@
 <!-- Profile image -->
 <img title="My Avatar" align="left" src="https://img.freepik.com/premium-photo/beautiful-hijab-women-hand-drawn-illustration_705652-931.jpg" width="350px" alt="Sarra Ben Ammar">
 
-**About me**
+
 I'm Sarra Ben Ammar, a passionate Cloud Engineering Master's student specializing in Cybersecurity and DevOps. I'm 22 years old and currently diving deep into cloud technologies, infrastructure as code, and security practices while maintaining strong full-stack development skills.
 
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
@@ -39,16 +39,18 @@ I'm Sarra Ben Ammar, a passionate Cloud Engineering Master's student specializin
 
 ---
 
-## Education
+📚 Education
+🎓 Master's in Cloud Engineering & Cybersecurity
+2024 – Present
+Specializing in cloud infrastructure, DevOps practices, and cybersecurity fundamentals
 
-**Software Development Bachelor’s Degree**  
-2022 – Present  
-- Final year of Software Development with a specialization in **software engineering** and **application development**.  
-- Mastery of advanced programming concepts and application development.
+💻 Bachelor's in Software Development
+2022 – 2024 | ISET Sousse, Tunisia
+Graduated with focus on software engineering and full-stack application development
 
-**Scientific Baccalaureate**  
-2021 – 2022  
-- Strong foundation in analytical thinking and problem-solving.
+🔬 Scientific Baccalaureate
+2021 – 2022
+Foundation in analytical thinking and scientific problem-solving
 
 ---
 
